@@ -1,0 +1,8 @@
+cat theWholeThing
+	>include cmdlib
+	>include textlib
+	cmdlib.input {What is your name?} $input
+	textlib.countChar = $input
+		textlib.storeToVar = ‘length’
+	print {Wow! Your name has} + length + {letters in it! That is a LOT!}
+	end

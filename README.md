@@ -1,5 +1,5 @@
 # CodeX
-A dumb little programming language
+A dumb little programming language.
 This is a simple little language that I made after watching some video tutorials from howCode on YouTube.
 
 

@@ -1,0 +1,1 @@
+print("\"Welcome to PORK! This is a text-based adventure, modeled after the acclaimed classic ZORK, written entirely in Python by Meorge. In this game, you use compass bearings (i.e. North, South, East, West) to make your way to the great treasure. Good luck!\"")
